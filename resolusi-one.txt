@@ -1,5 +1,6 @@
 Resolusi
 - Pertimbangkan belajar Clojure dalam 1 minggu kedepean (29 April 2021)
 - Belajar Matematika lebih lanjut
+- belajar fungsional programming
 - Mempelajari ulang dasar pemrograman
-- Perbanyak membuat project dan lomba
+- Perbanyak membuat lomba
