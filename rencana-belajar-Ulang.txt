@@ -1,3 +1,4 @@
 List belajar ulang
 - statistika
+- bahasa inggris
 - flutter
