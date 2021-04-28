@@ -1,0 +1,3 @@
+Resolusi
+- Pertimbangkan belajar Clojure dalam 1 minggu kedepean (29 April 2021)
+- Belajar Matematika lebih lanjut
